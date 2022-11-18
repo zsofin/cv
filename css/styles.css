@@ -1,0 +1,30 @@
+body{
+  background-color: #CFF5E7;
+}
+
+h1{
+  color: #0D4C92;
+}
+
+h3{
+  color: #0D4C92;
+}
+
+p{
+  color: #0E5E6F;
+}
+
+table{
+  color: #0E5E6F;
+}
+
+ul{
+  color: #0E5E6F;
+}
+
+hr{
+  border-color: #59C1BD;
+  border-style: dotted none none;
+  border-width: 15px;
+  width: 10%;
+}
