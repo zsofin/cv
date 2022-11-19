@@ -1,13 +1,20 @@
 body{
   background-color: #CFF5E7;
+  font-family: "Maven Pro";
 }
 
 h1{
   color: #0D4C92;
+  font-family: "Sacramento";
 }
 
+h2{
+  color: #0D4C92;
+  font-family: "Montserrat";
+  
 h3{
   color: #0D4C92;
+  font-family: "Montserrat";
 }
 
 img{
